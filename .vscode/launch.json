@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "pwa-msedge",
+            "name": "https://www.npmjs.com/package/readline-sync",
+            "request": "launch",
+            "url": "https://www.npmjs.com/package/readline-sync"
+        }
+    ]
+
+}
